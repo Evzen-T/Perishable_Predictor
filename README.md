@@ -1,5 +1,5 @@
 # **Perishables Predictor**
-![]('.\assets\dataset-cover.png')
+![Perishables]('.\assets\dataset-cover.png')
 
 ## Aim of Project
 1. Aid companies to better manage their products
