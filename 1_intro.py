@@ -5,7 +5,7 @@ st.title('Perishable Goods Predictor', text_alignment='center')
 
 #Thumbnail
 with st.container(border=0, horizontal_alignment="center", vertical_alignment="center",gap="xsmall"):
-    img0    = r"C:\Users\evzen\Desktop\IE0005\0_Project\assets\dataset-cover.png"
+    img0    = r".\\assets\dataset-cover.png"
     st.image(img0, caption='From Kaggle')
 
     #Link to dataset
